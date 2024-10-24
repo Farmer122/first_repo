@@ -1,2 +1,2 @@
 # first_repo
-First Repo for Fundemantals of Data Science Course
+First Repo for Fundamentals of Data Science Course
